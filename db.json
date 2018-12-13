@@ -1,0 +1,39 @@
+{
+  "login": [
+    {
+      "id": 0,
+      "email": "test@test.com",
+      "password": "1234",
+      "user": "Pedro Rossa"
+    }
+  ],
+  "notes": [
+    {
+      "id": "guid1",
+      "author": "Ademir",
+      "type": "text",
+      "message": "This outcrop it's amazing! Calcite and other rocks.",
+      "audio": "",
+      "image": "",
+      "timestamp": "2018-12-03 15:36:38"
+    },
+    {
+      "id": "guid1",
+      "author": "Gonzaga",
+      "type": "text",
+      "message": "On this trip we found some problems regarding the access to the outcrop. To solve this we rent a boat and a helicopter.",
+      "audio": "",
+      "image": "",
+      "timestamp": "2018-12-03 18:21:11"
+    },
+    {
+      "id": "guid1",
+      "author": "Ademir",
+      "type": "text",
+      "message": "Outcrop captured with LiDAR.",
+      "audio": "",
+      "image": "",
+      "timestamp": "2018-12-05 11:23:43"
+    }
+  ]
+}
